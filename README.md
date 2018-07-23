@@ -1,4 +1,0 @@
-"# SQL" 
-"# SQL" 
-"# SQL-EXERCISE" 
-"# SQL-EXERCISE" 
